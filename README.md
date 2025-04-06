@@ -1,4 +1,4 @@
-# CashCounter
+# CashCounter main code is wallet.py
 
 Опис
 Ми команда «не кодиш не кіт» створили додаток
